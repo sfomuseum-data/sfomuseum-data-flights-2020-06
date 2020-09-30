@@ -88,11 +88,11 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1593446743,
+    "wof:lastmodified":1601502889,
     "wof:name":"UA5327 (SFO-BOI)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-06",
+    "wof:repo":"sfomuseum-data-flights-2020-06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1591459463,
+    "wof:lastmodified":1601503233,
     "wof:name":"AS2707 (SFO-LAX)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-06",
+    "wof:repo":"sfomuseum-data-flights-2020-06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

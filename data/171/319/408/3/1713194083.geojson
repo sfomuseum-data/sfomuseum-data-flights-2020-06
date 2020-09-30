@@ -94,11 +94,11 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1591113901,
+    "wof:lastmodified":1601503308,
     "wof:name":"LH7488 (IAD-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-06",
+    "wof:repo":"sfomuseum-data-flights-2020-06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159285413,
         1477930395
     ],
-    "wof:lastmodified":1592669105,
+    "wof:lastmodified":1601502995,
     "wof:name":"UA2054 (SFO-ORD)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-06",
+    "wof:repo":"sfomuseum-data-flights-2020-06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

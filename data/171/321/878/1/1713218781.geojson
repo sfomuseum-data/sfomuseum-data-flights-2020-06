@@ -88,11 +88,11 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1592150723,
+    "wof:lastmodified":1601503421,
     "wof:name":"WN1492 (SFO-LAS)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-06",
+    "wof:repo":"sfomuseum-data-flights-2020-06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1591373071,
+    "wof:lastmodified":1601503241,
     "wof:name":"UA5814 (RNO-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-06",
+    "wof:repo":"sfomuseum-data-flights-2020-06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

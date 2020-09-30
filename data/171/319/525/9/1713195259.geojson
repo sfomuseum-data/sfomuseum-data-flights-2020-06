@@ -88,11 +88,11 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1591113904,
+    "wof:lastmodified":1601503342,
     "wof:name":"UA5369 (SFO-BFL)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-06",
+    "wof:repo":"sfomuseum-data-flights-2020-06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

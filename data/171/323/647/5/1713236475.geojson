@@ -88,11 +88,11 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1592928316,
+    "wof:lastmodified":1601503031,
     "wof:name":"AS3396 (SFO-LAX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-06",
+    "wof:repo":"sfomuseum-data-flights-2020-06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
