@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1593489600,
     "flysfo:timestamp": 1593489600,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,37.617990,11.096716,60.192908",
+    "geom:latitude": 48.905449000000004,
+    "geom:longitude": -55.6371135,
     "iata:airline": "DY",
     "icao:airline": "NAX",
     "iso:country": "US",
@@ -28,7 +28,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159286401,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102556645,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20200629-D-NAX-7064",
     "sfomuseum:flight_number": [
@@ -41,7 +41,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1593533104,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "89d622f01162859ba8235927fa6a3534",
     "wof:hierarchy": [
       {
         "event_id": 1713250751
@@ -54,7 +54,7 @@
       1159286401,
       -1
     ],
-    "wof:lastmodified": 1651269357,
+    "wof:lastmodified": 1652217566,
     "wof:name": "DY7064 (SFO-OSL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
@@ -65,9 +65,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
-    37.61799
+    37.61799,
+    11.096716,
+    60.192908
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[11.096716,60.192908]],"type":"MultiPoint"}
 }

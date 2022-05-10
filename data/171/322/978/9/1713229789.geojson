@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1592618400,
     "flysfo:timestamp": 1592618400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,37.617990,11.096716,60.192908",
+    "geom:latitude": 48.905449000000004,
+    "geom:longitude": -55.6371135,
     "iata:airline": "DY",
     "icao:airline": "NAX",
     "iso:country": "US",
@@ -29,7 +29,7 @@
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159286401,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:departure_id": -1,
+    "sfomuseum:departure_id": 102556645,
     "sfomuseum:flight_id": "20200619-A-NAX-7063",
     "sfomuseum:flight_number": [
       "NAX7063",
@@ -41,7 +41,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1592668984,
-    "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
+    "wof:geomhash": "cd6a47fefd74ff8411f66ce846a62cb2",
     "wof:hierarchy": [
       {
         "event_id": 1713229789
@@ -54,7 +54,7 @@
       1159286401,
       -1
     ],
-    "wof:lastmodified": 1651269355,
+    "wof:lastmodified": 1652217566,
     "wof:name": "DY7063 (OSL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
@@ -65,9 +65,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
-    37.61799
+    37.61799,
+    11.096716,
+    60.192908
   ],
-  "geometry": {"coordinates":[[0,0],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[11.096716,60.192908],[-122.370943,37.61799]],"type":"MultiPoint"}
 }
