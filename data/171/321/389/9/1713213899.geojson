@@ -2,79 +2,86 @@
   "id": 1713213899,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-06-11",
-    "date:cessation_upper":"2020-06-11",
-    "date:inception_lower":"2020-06-11",
-    "date:inception_upper":"2020-06-11",
-    "edtf:cessation":"2020-06-11T18:37:34Z",
-    "edtf:inception":"2020-06-11T08:10:00Z",
-    "flysfo:actual_timestamp":1591916400,
-    "flysfo:airline":"MU",
-    "flysfo:date":"2020-06-11",
-    "flysfo:estimated_timestamp":1591900500,
-    "flysfo:event":"A",
-    "flysfo:flight_number":"MU589",
-    "flysfo:gate":"",
-    "flysfo:journey":"PVG-SFO",
-    "flysfo:scheduled_timestamp":1591900500,
-    "flysfo:timestamp":1591916400,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,31.145312,121.799307,37.61799",
-    "geom:latitude":34.381651,
-    "geom:longitude":-0.285818,
-    "iata:airline":"MU",
-    "icao:aircraft":"B77W",
-    "icao:airline":"CES",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159289993,
-    "sfomuseum:airline_id":1159284157,
-    "sfomuseum:arrival_id":102527513,
-    "sfomuseum:departure_id":102550331,
-    "sfomuseum:flight_id":"20200611-A-CES-589",
-    "sfomuseum:flight_number":[
-        "CES589",
-        "MU589"
+    "date:cessation_lower": "2020-06-11",
+    "date:cessation_upper": "2020-06-11",
+    "date:inception_lower": "2020-06-11",
+    "date:inception_upper": "2020-06-11",
+    "edtf:cessation": "2020-06-11T18:37:34Z",
+    "edtf:inception": "2020-06-11T08:10:00Z",
+    "flysfo:actual_timestamp": 1591916400,
+    "flysfo:airline": "MU",
+    "flysfo:date": "2020-06-11",
+    "flysfo:estimated_timestamp": 1591900500,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "MU589",
+    "flysfo:gate": "",
+    "flysfo:journey": "PVG-SFO",
+    "flysfo:scheduled_timestamp": 1591900500,
+    "flysfo:timestamp": 1591916400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,31.145312,121.799307,37.617990",
+    "geom:latitude": 34.381651,
+    "geom:longitude": -0.285817999999999,
+    "iata:airline": "MU",
+    "icao:aircraft": "B77W",
+    "icao:airline": "CES",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289993,
+    "sfomuseum:airline_id": 1159284157,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102550331,
+    "sfomuseum:flight_id": "20200611-A-CES-589",
+    "sfomuseum:flight_number": [
+      "CES589",
+      "MU589"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-route"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
     ],
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"133914311"
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "133914311"
     },
-    "wof:country":"US",
-    "wof:created":1591977766,
-    "wof:geomhash":"0a16624c451961804ad27ef012213244",
-    "wof:hierarchy":[],
-    "wof:id":1713213899,
-    "wof:involves":[
-        102527513,
-        102550331,
-        1159284157,
-        -1,
-        1159289993
+    "wof:country": "US",
+    "wof:created": 1591977766,
+    "wof:geomhash": "0a16624c451961804ad27ef012213244",
+    "wof:hierarchy": [
+      {
+        "event_id": 1713213899
+      }
     ],
-    "wof:lastmodified":1601503444,
-    "wof:name":"MU589 (PVG-SFO)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-06",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1713213899,
+    "wof:involves": [
+      102527513,
+      102550331,
+      1159284157,
+      -1,
+      1159289993
+    ],
+    "wof:lastmodified": 1717030921,
+    "wof:name": "MU589 (PVG-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-06",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     31.145312,
     121.799307,
     37.61799
-],
+  ],
   "geometry": {"coordinates":[[121.799307,31.145312],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

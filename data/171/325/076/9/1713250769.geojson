@@ -90,10 +90,13 @@
       1159286153,
       1477930291
     ],
-    "wof:lastmodified": 1653352213,
+    "wof:lastmodified": 1717030920,
     "wof:name": "QR999 (SFO-DOH)",
     "wof:parent_id": 1729792619,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-06",
     "wof:superseded_by": [],
     "wof:supersedes": [],

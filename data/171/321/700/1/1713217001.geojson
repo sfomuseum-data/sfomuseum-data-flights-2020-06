@@ -104,10 +104,13 @@
       1477930463,
       1159289965
     ],
-    "wof:lastmodified": 1653352083,
+    "wof:lastmodified": 1717030923,
     "wof:name": "UA1025 (SFO-EWR)",
     "wof:parent_id": 1729792651,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-06",
     "wof:superseded_by": [],
     "wof:supersedes": [],

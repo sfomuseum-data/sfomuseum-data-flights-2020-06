@@ -104,10 +104,13 @@
       1477930433,
       1159293215
     ],
-    "wof:lastmodified": 1653352098,
+    "wof:lastmodified": 1717030919,
     "wof:name": "UA2439 (SFO-EWR)",
     "wof:parent_id": 1729792525,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-06",
     "wof:superseded_by": [],
     "wof:supersedes": [],
